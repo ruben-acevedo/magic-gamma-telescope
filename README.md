@@ -120,7 +120,7 @@ For the complete analysis, please check the jupyter notebook in folder 'scripts'
 
 Rubén Acevedo is a data scientist with a passion for applying cutting-edge technologies to address critical challenges in the fields of Science, Economics, Social Causes, Healthcare and other related fields.
 
-You can contact me through my email rubenfsolorzano@hotmail.com if you find it necessary :)
+You can contact me through my email ruben.fernando@pucpr.edu.br if you find it necessary :)
 
 Thanks!
 
